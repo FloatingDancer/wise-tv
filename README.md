@@ -1,3 +1,13 @@
+---
+title: Wise TV
+emoji: 📺
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 📺 Wise TV - Discord Bot & Activity Player (Nobar Arena)
 
 Wise TV adalah aplikasi **Discord Activity (Embedded App)** resmi yang terintegrasi dengan **Discord Bot**. Anggota server Anda dapat menonton TV lokal (Indonesia), internasional, dan olahraga (Piala Dunia) secara bersama-sama langsung di dalam Voice Channel Discord (seperti fitur Watch Together resmi) dan dikontrol menggunakan **Remote Control** interaktif di chat!
